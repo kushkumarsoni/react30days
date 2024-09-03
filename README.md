@@ -11,5 +11,3 @@ React Installation with vite
 
 Start React
     -> npm run start
-
-6th videos complete date : 03/09/2024
